@@ -41,6 +41,12 @@ $ forge test --gas-report
 $ forge fmt
 ```
 
+### Contract size
+
+```sh
+$ forge build --sizes
+```
+
 ### Gas Snapshots
 
 ```sh
